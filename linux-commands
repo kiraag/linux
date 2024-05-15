@@ -1,1 +1,3 @@
-ls		-		list all files & folder
+ls				-		list all files & folder
+
+mkdir <directory name>		-		create an empty dirctory
