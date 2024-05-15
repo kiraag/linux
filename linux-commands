@@ -1,3 +1,7 @@
 ls				-		list all files & folder
 
 mkdir <directory name>		-		create an empty dirctory
+
+cd <directory name>         -       opens the directory
+
+pwd                         -       shows present working dirctory
