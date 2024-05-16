@@ -5,3 +5,11 @@ mkdir <directory name>		-		create an empty dirctory
 cd <directory name>         -       opens the directory
 
 pwd                         -       shows present working dirctory
+
+rm <file name>		-	delete file
+
+rmdir <directory name>		-	deletes empty directory
+
+rm -rf <directory name>		-	delete directory with files including
+
+
