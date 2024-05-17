@@ -12,4 +12,9 @@ rmdir <directory name>		-	deletes empty directory
 
 rm -rf <directory name>		-	delete directory with files including
 
+mv <file name> <path>       -   moves files to given path
+
+mv <file old name> <file new name>      -       renames the files (same command used to move files also)
+
+cp <file name> <destination path>       -       copy files to given destination path
 
